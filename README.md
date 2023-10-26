@@ -1,6 +1,6 @@
   <p align="center">  
   <a href="https://secktoruserbot.onrender.com/">
-    <img alt="secktor docs" height="300" src="https://i.imgur.com/lhVMRjM.mp4">
+    <img alt="secktor docs" height="300" src="https://telegra.ph/file/a267bb4341e4a11e42eb9.jpg">
     <h1 align="center">Black Hunter MD What's App BOT</h1>
   </a>
 </p>
