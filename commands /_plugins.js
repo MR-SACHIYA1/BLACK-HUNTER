@@ -6,7 +6,7 @@
  * @project_name : BLACK-HUNTER
  * @author: MR-SACHIYA1<https://github.com/MR-SACHIYA1>
  * @description : BLACK-HUNTER,A Multi-functional whatsapp bot.
- * @version 0.0.6
+ * @version 0.0.1
  **/
 const axios = require('axios');
 const fs = require('fs-extra')
