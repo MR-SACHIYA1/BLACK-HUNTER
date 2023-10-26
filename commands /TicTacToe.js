@@ -5,8 +5,8 @@
  It is supplied in the hope that it may be useful.
  * @project_name : BLACK-HUNTER
  * @author : @MR-SACHIYA1 <https://github.com/MR-SACHIYA1>
- * @description : Secktor,A Multi-functional whatsapp bot.
- * @version 0.0.6
+ * @description : BLACK-HUNTER,A Multi-functional whatsapp bot.
+ * @version 0.0.1
  **/
 
  const { cmd, parseJid,getAdmin,tlang } = require("../lib/");
