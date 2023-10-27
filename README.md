@@ -1,8 +1,9 @@
-  <p align="center">  
+ <h1 align="center">Black Hunter MD What's App BOT</h1>
+ 
+ <p align="center">  
   <a href="https://github.com/MR-SACHIYA1">
-    <img alt="secktor docs" height="300" src="https://telegra.ph/file/a267bb4341e4a11e42eb9.jpg">
-    <h1 align="center">Black Hunter MD What's App BOT</h1>
-  </a>
+    <img alt="secktor docs" height="300" src="https://telegra.ph/file/a267bb4341e4a11e42eb9.jpg">    
+   </a>
 </p>
    
 <p align="center">
