@@ -30,7 +30,7 @@
  
    
    
-   ## Deployment Methods
+   ## ᴅᴇᴩʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅꜱ
 ---
 
 ## ꜱᴇꜱꜱɪᴏɴ ɪᴅ
@@ -51,7 +51,3 @@
 ### Thanks To
 
 - [MR-KALINDU](https://github.com/MR-KALINDU) for Supporter
-
-## License
-
-The BALCK-HUNTER is made available under the [GPL-3 license](https://github.com/MR-SACHIYA1/BLACK-HUNTER/blob/main/LICENCE). 
