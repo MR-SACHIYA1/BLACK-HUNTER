@@ -7,11 +7,6 @@
 </p>
    
 <p align="center">
-
-  <a aria-label="Join our chats" href="https://www.youtube.com/@YourPenPal" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
- 
   <a aria-label="BLAC-HUNTER is free to use" href="https://github.com/MR-SACHIYA1/BLACK-HUNTER/blob/main/LICENCE" target="_blank">
     <img alt="License: GPL-3" src="https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/" target="_blank" />
   </a>
@@ -42,10 +37,6 @@
 ## ʜᴇʀᴏᴋᴜ ᴅᴇᴩʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅ
 
 3.  ***Deploy on [Heroku](https://heroku.com/deploy?template=https://github.com/MR-SACHIYA1/BLACK-HUNTER)***
-
-## ꜰʀᴇᴇ ᴍᴏɴɢᴏᴅʙ ᴜʀʟ
-
-4.  [Mongodb](mongodb://uijlnjanwwtok9huotuz:O6aZrtz68pox7WolLfv@bhnvvvb88m0avzvaoawp-mongodb.services.clever-cloud.com:2327/bhnvvvb88m0avzvaoawp)
 
 
 ### Thanks To
