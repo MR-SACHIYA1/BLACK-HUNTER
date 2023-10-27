@@ -1,13 +1,13 @@
 {
-               "name": "LACK-HUNTER",
+               "name": "BLACK-HUNTER",
                "version": "0.0.7",
                "description": "Multi device whatsapp bot by MR-SACHIYA.",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0",
    "scripts": {
-                "start": "pm2 start lib/client.js --deep-monitoring --attach --name secktor",
-                "stop": "pm2 stop secktor"
+                "start": "pm2 start lib/client.js --deep-monitoring --attach --name black-hunter",
+                "stop": "pm2 stop black-hunter"
                 },
                "author": "MR-SACHIYA",
               "dependencies": {
@@ -55,6 +55,8 @@
                        "util": "^0.12.4",           
                        "secktor-pack": "latest",
                        "ytdl-secktor": "latest",
+                       "aptoide-scraper": "latest",
+                       "@sl-code-lords/esana-news": "latest",
                        "pastebin-js": "latest",
                        "fb-info-video":"^1.0.2",
                        "wa-sticker-formatter": "^4.3.2"
