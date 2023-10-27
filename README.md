@@ -26,7 +26,7 @@
 
 ## ᴄʟɪᴄᴋ ᴛᴏ ꜰᴏʀᴋ
 
-1.  ***[FORK](https://github.com/SamPandey001/Secktor-MD/fork)***
+1.  ***[FORK](https://github.com/MR-SACHIYA1/BLACK-HUNTER/fork)***
  
    
    
