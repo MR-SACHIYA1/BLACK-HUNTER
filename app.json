@@ -8,12 +8,8 @@
 "env": {
   "OWNER_NAME": {
   "description": "Name of Bot Owner",
-      "value": "Eren Yeager"
+      "value": "MR-SACHIYA"
   },
-  "ALIVE_MESSAGE": {
-    "description": "Alive message for bot",
-     "required" :false
-    },
     "AUTO_STATUS_SAVER": {
       "description": "Automatically saves status of every person and sends in log number.",
        "required" :false
@@ -63,7 +59,7 @@
        "value": "94760007746"
   },
    "SESSION_ID": {
-    "description": "Please put your SESSION_ID here,if you don't have visit https://secktorbot.herokuapp.com/session "
+    "description": "Please put your SESSION_ID here,if you don't have visit https://rowdy-baby-qr-94d785f490a0.herokuapp.com "
   },
     "OPENAI_API_KEY": {
     "description": "Please put your OPENAI api key here.Get it from beta.openai.com ",
@@ -75,8 +71,8 @@
     "value": "mongodb://uijlnjanwwtok9huotuz:O6aZrtz68pox7WolLfv@bhnvvvb88m0avzvaoawp-mongodb.services.clever-cloud.com:2327/bhnvvvb88m0avzvaoawp"
   },
     "THEME": {
-    "description": "Put the theme name you want to use. Avilable themes are SECKTOR,ZEROTWO,NEZUKO,LUFFY,GOKU and many more..",
-     "value": "secktor"
+    "description": "Put the theme name you want to use. ",
+     "value": "BLACK-HUNTER"
   },
     "WORKTYPE": {
   "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
