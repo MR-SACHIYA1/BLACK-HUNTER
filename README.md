@@ -26,10 +26,11 @@
  
   
 - Install [External Plugins](https://github.com/SamPandey001/Secktor-Plugins)
-## Click To Fork
+## ᴄʟɪᴄᴋ ᴛᴏ ꜰᴏʀᴋ
 
 1.  *** [FORK](https://github.com/SamPandey001/Secktor-MD/fork)***## Deployment Methods
 ---
+## ꜱᴇꜱꜱɪᴏɴ ɪᴅ
 2. ***Get [SESSION-ID](https://secktorub-b34f1c3c60d3.herokuapp.com/id) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
 
 
@@ -37,7 +38,7 @@
 
 
 
-## Heroku Deployment Method
+## ʜᴇʀᴏᴋᴜ ᴅᴇᴩʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅ
 4.  ***Deploy on [Heroku](https://secktorub-b34f1c3c60d3.herokuapp.com//heroku)***
 
 
@@ -46,7 +47,7 @@
 - Star ⭐ repo if you like Secktor.
 ### Thanks To
 
-- [Yusuf Usta](https://github.com/yusufusta) for Ideas
+- [MR-KALINDU](https://github.com/MR-KALINDU) for Ideas
 
 ## License
 
