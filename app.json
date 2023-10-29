@@ -22,6 +22,11 @@
     "description": "Put HEROKU APP NAME same as above.",
      "required" :false
     },
+    "ALWAYS_ONLINE": {
+    "description": "Take it 'true' if you wanna show Always Onlline",
+    "value": "false",
+    "required" :false
+    },
     "AUTO_READ_STATUS": {
     "description": "Fill the value true if you want bot view your Statuses.",
     "required" :false,
