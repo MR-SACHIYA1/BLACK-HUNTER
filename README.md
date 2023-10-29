@@ -51,3 +51,6 @@ mongodb://uv81avnakutzbliczgcu:YYNgzWfkLVxONbVjIVr@bmmkbijvkzeo6y0truts-mongodb.
 ### Thanks To 🔖
 
 - [MR-KALINDU](https://github.com/MR-KALINDU) for Supporter
+
+
+<p align = center > <a href="https://gpt-qr-code.onrender.com/cyber-x"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR" height="112" width="300" /></a> </p> <br>
