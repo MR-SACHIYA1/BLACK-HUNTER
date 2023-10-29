@@ -12,6 +12,10 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="" target="_blank">
+    <img alt="Forks" src="https://img.shields.io/github/forks/SuhailTechInfo/Suhail-Md" />
+  </a>
  
 ---
 
