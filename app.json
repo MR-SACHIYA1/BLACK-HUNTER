@@ -60,8 +60,9 @@
      "value": "true"
     },
    "DISABLE_PM": {
-    "description": "Disable bot in pm",
-     "required" :false
+    "description": "Disable bot in pm, Take it false if you wanna run bot in your pm",
+    "value": "false",
+    "required" :false
     },
       "PREFIX": {
   "description": "Enter your desired prefix for bot.",
