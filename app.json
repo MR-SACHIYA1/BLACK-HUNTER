@@ -14,6 +14,11 @@
     "description": "Alive message for bot",
      "required" :false
     },
+   "AUTO_READ_STATUS": {
+    "description": "Fill the value true if you want bot view your Statuses.",
+    "required" :false,
+    "value": "true"
+    }, 
     "AUTO_STATUS_SAVER": {
       "description": "Automatically saves status of every person and sends in log number.",
        "required" :false
