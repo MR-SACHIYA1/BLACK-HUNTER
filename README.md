@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="" target="_blank">
-    <img alt="Forks" src="https://img.shields.io/github/forks/SuhailTechInfo/Suhail-Md" />
+    <img alt="Forks" src="https://img.shields.io/github/forks/MR-SACHIYA1/BLACK-HUNTER" />
   </a>
  
 ---
