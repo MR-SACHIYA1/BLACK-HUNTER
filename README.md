@@ -39,7 +39,7 @@
 
 ## 🌷ʜᴇʀᴏᴋᴜ ᴅᴇᴩʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅ🌷
 
-3.  ***Deploy on [Heroku](https://heroku.com/deploy?template=https://github.com/MR-SACHIYA1/BLACK-HUNTER)***
+3.  ***Deploy on [Heroku](https://heroku.com/deploy?template=https://github.com/MR-SACHIYA1/BLACK-HUNTER) ***
 
 
 
@@ -51,7 +51,3 @@ mongodb://uv81avnakutzbliczgcu:YYNgzWfkLVxONbVjIVr@bmmkbijvkzeo6y0truts-mongodb.
 ### Thanks To 🔖
 
 - [MR-KALINDU](https://github.com/MR-KALINDU) for Supporter
-
-
-
-***Get [SESSION-ID](https://gpt-qr-code.onrender.com/cyber-x) by scanning QR code. 
