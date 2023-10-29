@@ -12,11 +12,11 @@
   },
   "ALIVE_MESSAGE": {
     "description": "Alive message for bot",
-     "required" :false
+     "required" :true
     },
    "AUTO_READ_STATUS": {
     "description": "Fill the value true if you want bot view your Statuses.",
-    "required" :false,
+    "required" :true,
     "value": "true"
     },
     "ALWAYS_ONLINE": {
@@ -28,19 +28,11 @@
       "description": "Automatically saves status of every person and sends in log number.",
        "required" :false
       },
-    "HEROKU_API_KEY": {
-    "description": "Put HEROKU API KEY",
-     "required" :false
-    },
-  "HEROKU_APP_NAME": {
+    "HEROKU_APP_NAME": {
     "description": "Put HEROKU APP NAME same as above.",
      "required" :false
     },
-   "THUMB_IMAGE": {
-    "description": "THUMBNAIL for bot.",
-     "value": "https://telegra.ph/file/a267bb4341e4a11e42eb9.jpg"
-    },
-    "ANTI_BAD_WORD": {
+   "ANTI_BAD_WORD": {
     "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
      "required" :false
     },
