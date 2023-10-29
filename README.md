@@ -42,10 +42,12 @@
 3.  ***Deploy on [Heroku](https://heroku.com/deploy?template=https://github.com/MR-SACHIYA1/BLACK-HUNTER)***
 
 
-*** ꜰʀᴇᴇ ᴍᴏɴɢᴏᴅʙ ᴋᴇʏ ***
+
+## ꜰʀᴇᴇ ᴍᴏɴɢᴏᴅʙ ᴋᴇʏ 
 ```
 mongodb://uv81avnakutzbliczgcu:YYNgzWfkLVxONbVjIVr@bmmkbijvkzeo6y0truts-mongodb.services.clever-cloud.com:2004/bmmkbijvkzeo6y0truts
 ```
+
 ### Thanks To
 
 - [MR-KALINDU](https://github.com/MR-KALINDU) for Supporter
