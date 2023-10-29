@@ -18,7 +18,12 @@
     "description": "Fill the value true if you want bot view your Statuses.",
     "required" :false,
     "value": "true"
-    }, 
+    },
+    "ALWAYS_ONLINE": {
+    "description": "Take it 'true' if you wanna show Always Onlline",
+    "value": "false",
+    "required" :false
+    },
     "AUTO_STATUS_SAVER": {
       "description": "Automatically saves status of every person and sends in log number.",
        "required" :false
