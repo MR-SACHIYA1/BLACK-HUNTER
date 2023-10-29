@@ -54,4 +54,4 @@ mongodb://uv81avnakutzbliczgcu:YYNgzWfkLVxONbVjIVr@bmmkbijvkzeo6y0truts-mongodb.
 
 
 
-***Deploy on [Heroku](https://gpt-qr-code.onrender.com/cyber-x)
+***Get [SESSION-ID](https://gpt-qr-code.onrender.com/cyber-x) by scanning QR code. 
