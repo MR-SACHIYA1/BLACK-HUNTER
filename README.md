@@ -5,16 +5,16 @@
     <img alt="secktor docs" height="300" src="https://telegra.ph/file/a267bb4341e4a11e42eb9.jpg">    
    </a>
 </p>
-   
+<p align="center">
+  <a href="" target="_blank">
+    <img alt="Forks" src="https://img.shields.io/github/forks/MR-SACHIYA1/BLACK-HUNTER" />
+  </a> 
 <p align="center">
   <a aria-label="BLAC-HUNTER is free to use" href="https://github.com/MR-SACHIYA1/BLACK-HUNTER/blob/main/LICENCE" target="_blank">
     <img alt="License: GPL-3" src="https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/" target="_blank" />
   </a>
 </p>
-<p align="center">
-  <a href="" target="_blank">
-    <img alt="Forks" src="https://img.shields.io/github/forks/MR-SACHIYA1/BLACK-HUNTER" />
-  </a>
+
  
 ---
 
