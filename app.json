@@ -35,7 +35,7 @@
     "ANTI_BAD_WORD": {
     "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
      "required" :false
-    "value": "sex,xxx",
+    "value": "",
     },
    "ANTILINK_VALUES": {
     "description": "Put words for antilink",
@@ -59,7 +59,7 @@
     },
      "DISABLE_PM": {
     "description": "Disable bot in pm, Take it false if you wanna run bot in your pm",
-    "value": "true",
+    "value": "false",
     "required" :false
     },
     "PREFIX": {
@@ -84,11 +84,11 @@
   },
     "THEME": {
     "description": "Put the theme name you want to use. ",
-     "value": "BLACK-HUNTER MD"
+     "value": "BLACK-HUNTER"
   },
-    "MODE": {
-    "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
-    "value": "private"
+    "WORKTYPE": {
+  "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
+         "value": "public"
   },
       "AUTO_REACTION": {
     "description": "Reacts emoji to all commands.",
