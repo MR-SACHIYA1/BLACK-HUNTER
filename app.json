@@ -22,6 +22,14 @@
     "description": "Put HEROKU APP NAME same as above.",
      "required" :false
     },
+   "ALIVE_IMAGE": {
+   "description": "THUMBNAIL for bot.",
+   "value": "https://telegra.ph/file/a267bb4341e4a11e42eb9.jpg"
+    },
+   "ALIVE_MESSAGE": {
+     "description": "Alive message for bot",
+     "required" :false
+    },
     "ALWAYS_ONLINE": {
     "description": "Take it 'true' if you wanna show Always Onlline",
     "value": "false",
