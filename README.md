@@ -39,7 +39,7 @@
 
 ## 🌷ʜᴇʀᴏᴋᴜ ᴅᴇᴩʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅ🌷
 
-3.  ***Deploy on [Heroku](https://heroku.com/deploy?template=https://github.com/MR-SACHIYA1/BLACK-HUNTER) ***
+3.  ***Deploy on [Heroku](https://heroku.com/deploy?template=https://github.com/MR-SACHIYA1/BLACK-HUNTER)***
 
 
 
