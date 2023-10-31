@@ -15,7 +15,8 @@
   </a>
 </p>
 
- 
+ <p align="center">
+   <a href="https://github.com/MR-SACHIYA1"><img src="http://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&multiline=false&lines=Dragon+Multi+Device;Base+Secktor;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
 ---
 
   <p align="center"> Introducing Black Hunter is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
