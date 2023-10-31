@@ -1,4 +1,4 @@
- <h1 align="center">Black Hunter MD What's App BOT</h1>
+ <h1 align="center">BLACK-HUNTER MD WHAT'S APP BOT</h1>
  
  <p align="center">  
   <a href="https://github.com/MR-SACHIYA1">
@@ -16,7 +16,7 @@
 </p>
 
  <p align="center">
-   <a href="https://github.com/MR-SACHIYA1"><img src="http://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&multiline=false&lines=BLACK-HUNTER+MD+BOT;OWNER=MR-SACHIYA;DATA  BASE=SECKTOR;GIVE STAR AND FORK THIS MY REPO ;Follow+My+Github" alt="UwU">
+   <a href="https://github.com/MR-SACHIYA1"><img src="http://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&multiline=false&lines=BLACK-HUNTER+MD+BOT;OWNER=MR-SACHIYA;DATA  BASE=SECKTOR;GIVE+STAR+AND+FORK+THIS+MY+REPO ;Follow+My+Github" alt="UwU">
 ---
 
   <p align="center"> Introducing Black Hunter is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
